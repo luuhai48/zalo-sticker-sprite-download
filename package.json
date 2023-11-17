@@ -1,0 +1,10 @@
+{
+  "name": "zalo-sticker-download",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "sharp": "^0.32.6"
+  }
+}
